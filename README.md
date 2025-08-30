@@ -1,6 +1,7 @@
 # Restaurant Website
 
-A simple restaurant website built using **HTML** and **CSS** , featuring a menu, hero section, and contact information.
+A simple landing page made for restaurant built using **HTML** and **CSS** , featuring a menu, hero section, and contact information.
+Used different properties like hover, grid, flexbox etc.
 Not dynamic as JS not used.
 
 ---
